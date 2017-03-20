@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Note: Project has been forked from: https://github.com/StephenGrider/ReactStarter/
+Note: Project has been forked from: https://github.com/StephenGrider/ReduxSimpleStarter/
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
