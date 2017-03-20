@@ -12,8 +12,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone git@github.com:robreczarek/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
+	> git clone git@github.com:robreczarek/Udemy-React.git
+	> cd Udemy-React
 	> npm install
 	> npm start
 ```
